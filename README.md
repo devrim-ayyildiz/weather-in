@@ -5,14 +5,14 @@ This script fetches and displays current weather information for a specified cit
 
 ## Usage
 ```
-python weather-in.py <city name>\
+python weather-in.py <city name>
 python weather-in.py --help
 ```
 
 ## Examples
 ```
-python weather-in.py London\
-python weather-in.py New York\
+python weather-in.py London
+python weather-in.py New York
 python weather-in.py "Los Angeles"
 ```
 
