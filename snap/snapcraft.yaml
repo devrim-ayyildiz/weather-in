@@ -6,8 +6,8 @@ description: |
   Fetches and displays current weather information for a specified city
   using the OpenWeatherMap API. It requires an API key stored in ~/.apikey
 
-grade: devel # must be 'stable' to release into candidate/stable channels
-confinement: devmode # use 'strict' once you have the right plugs and slots
+grade: stable
+confinement: strict
 type: app
 
 platforms:
