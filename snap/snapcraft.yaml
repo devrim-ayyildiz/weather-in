@@ -23,4 +23,4 @@ parts:
 
 apps:
   weather-in:
-    command: bin/python3 weather-in.py
+    command: bin/python3 $SNAP/weather-in.py
